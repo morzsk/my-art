@@ -1,8 +1,5 @@
-# 🐵 Monkey Channel Artwork Collection
-
-This repository contains various pieces of custom artwork I’ve created for my channel.
-
-Every PNG file is paired with its original `.xcf` (GIMP project) file for future editing.
+# 🐵 My art
+This repository contains various pieces of custom artwork I’ve created for my channel. Every PNG file is paired with its original `.xcf` (GIMP project) file for future editing.
 
 Below is a preview of each artwork included:
 
