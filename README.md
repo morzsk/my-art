@@ -7,23 +7,23 @@ Every PNG file is paired with its original `.xcf` (GIMP project) file for future
 Below is a preview of each artwork included:
 
 ### `live-thumbnail.png`
-![live-thumbnail](./live-thumbnail.png)
+![live-thumbnail](./assets/live-thumbnail.png)
 
 ### `monkey-bebop-banner.png`
-![monkey-bebop-banner](./monkey-bebop-banner.png)
+![monkey-bebop-banner](./assets/monkey-bebop-banner.png)
 
 ### `monkey-bebop.png`
-![monkey-bebop](./monkey-bebop.png)
+![monkey-bebop](./assets/monkey-bebop.png)
 
 ### `monkey-brain.png`
-![monkey-brain](./monkey-brain.png)
+![monkey-brain](./assets/monkey-brain.png)
 
 ### `monkey-pilled-banner.png`
-![monkey-pilled-banner](./monkey-pilled-banner.png)
+![monkey-pilled-banner](./assets/monkey-pilled-banner.png)
 
 ### `profile1.png`
-![profile1](./profile1.png)
+![profile1](./assets/profile1.png)
 
 ### `profile2.png`
-![profile2](./profile2.png)
+![profile2](./assets/profile2.png)
 
